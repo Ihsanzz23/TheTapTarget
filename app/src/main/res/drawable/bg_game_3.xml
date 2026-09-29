@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Latar 3: cokelat kemerahan (senja) -->
+    <gradient
+        android:angle="270"
+        android:centerColor="#2A1409"
+        android:endColor="#150A05"
+        android:startColor="#3B1D0F"
+        android:type="linear" />
+</shape>
